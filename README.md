@@ -19,8 +19,8 @@ The components included along with the processor are as follows :
     IR (Instruction Register) - for incrementing the value of the PC and helping decode the instruction in the PC
     REGISTERS - for storing data
 
-The Instruction Encoding and other required information are given in the **Specifications.txt**
-Sample instructions are included in the **Instructions.txt** and Data is provided in **Data.txt**
+The Instruction Encoding and other required information are given in the ***Specifications.txt***. 
+Sample instructions are included in the ***Instructions.txt*** and Data is provided in ***Data.txt***
 
 
 
