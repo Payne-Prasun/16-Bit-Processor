@@ -10,7 +10,7 @@ The following are the features of our processor :
     BITWISE - XOR
     STORE
     LOAD
-a
+
 The components included along with the processor are as follows :
 
     ALU - for computing Arithmetical and Logical Operations
