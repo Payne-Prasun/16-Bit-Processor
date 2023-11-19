@@ -1,6 +1,6 @@
 # 16-Bit-Processor
 In this project, we have replicated a 16-Bit-Processor, that makes use of a Single Bus Functionality. We have used python for the same. 
-Special Thanks to @Reeshan Joarder and @vaibhav-INDIE for designing the Decoder unit, and @vineetcoder5 for helping me in designing the ALU unit. 
+Special Thanks to *@Reeshan Joarder* and *@vaibhav-INDIE* for designing the Decoder unit, and *@vineetcoder5* for helping me in designing the ALU unit. 
 
 The following are the features of our processor :
 
